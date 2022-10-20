@@ -100,6 +100,7 @@ namespace QuickSort
         static void Main(string[] args)
         {
             Program myList = new Program();
+            myList.input();
         }
     }
 }
