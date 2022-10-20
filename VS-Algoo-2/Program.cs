@@ -9,5 +9,10 @@ namespace QuickSort
         private int mov_count = 0;
 
         private int n;
+
+        void input()
+        {
+
+        }
     }
 }
