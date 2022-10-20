@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VS-Algoo-2", "VS-Algoo-2\VS-Algoo-2.csproj", "{1E330B5B-3893-480E-A546-B388A42B5D29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E330B5B-3893-480E-A546-B388A42B5D29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E330B5B-3893-480E-A546-B388A42B5D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E330B5B-3893-480E-A546-B388A42B5D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E330B5B-3893-480E-A546-B388A42B5D29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA1A0671-C898-4E42-8A41-FA43C5E4F4F4}
+	EndGlobalSection
+EndGlobal
