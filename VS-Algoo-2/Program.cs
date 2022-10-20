@@ -97,5 +97,9 @@ namespace QuickSort
         {
             return (n);
         }
+        static void Main(string[] args)
+        {
+            Program myList = new Program();
+        }
     }
 }
