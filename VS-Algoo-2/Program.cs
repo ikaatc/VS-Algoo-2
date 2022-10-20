@@ -77,6 +77,8 @@ namespace QuickSort
                 swap(low, j);
                 mov_count++;
             }
+            q_sort(low, j - 1);
+            q_sort(low + 1, high);
         }
     }
 }
