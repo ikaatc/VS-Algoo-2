@@ -72,6 +72,11 @@ namespace QuickSort
                     mov_count++;
                 }
             }
+            if (low < j)
+            {
+                swap(low, j);
+                mov_count++;
+            }
         }
     }
 }
