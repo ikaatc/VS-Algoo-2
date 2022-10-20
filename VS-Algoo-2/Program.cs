@@ -80,5 +80,11 @@ namespace QuickSort
             q_sort(low, j - 1);
             q_sort(low + 1, high);
         }
+        void display()
+        {
+            Console.WriteLine("n====================");
+            Console.WriteLine("Sorted array elements");
+            Console.WriteLine("=====================");
+        }
     }
 }
