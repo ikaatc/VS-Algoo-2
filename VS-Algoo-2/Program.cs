@@ -104,7 +104,7 @@ namespace QuickSort
             myList.q_sort(0, myList.getSize() - 1);
             myList.display();
             Console.WriteLine("\n\nPress Enter to exit.");
-            Console.Read():
+            Console.Read();
         }
     }
 }
